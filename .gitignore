@@ -1,5 +1,7 @@
 # Folders
 tmp/
+cache/
+*.pkl
 *.npy
 
 # Byte-compiled / optimized / DLL files
